@@ -5,11 +5,12 @@ body {
 h1 {
   color: white;
   font-size: 150px;
-  font-family: Lucida Handwriting;
+  font-family: "Cooperplate", Fantasy;
 }
 
 p {
   color: white;
-  font-size: 100px;
-  font-family: arial black;
+  font-size: 50px;
+  font-family: "Lucida Handwriting", Cursive;
+  line-height: 0.7;
 }
