@@ -7,3 +7,9 @@ h1 {
   font-size: 150px;
   font-family: Lucida Handwriting;
 }
+
+p {
+  color: white;
+  font-size: 100px;
+  font-family: arial black;
+}
