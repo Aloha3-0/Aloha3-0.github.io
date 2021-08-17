@@ -9,13 +9,13 @@ h1 {
 }
 
 p.small {
-  line-height: 0.5;
+  line-height: -0.5;
 }
 
 p1 {
   color: white;
   font-size: 50px;
   font-family: "Lucida Handwriting", Cursive;
-  line-height: 0.5;
+  line-height: -0.5;
   class="small"
 }
