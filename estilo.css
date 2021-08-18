@@ -6,7 +6,7 @@ h1 {
   color: white;
   font-size: 150px;
   font-family: "Cooperplate", Fantasy;
-  margin: 50px;
+  margin-bottom: -60px;
 }
 
 p.small {
@@ -18,5 +18,4 @@ p {
   font-size: 50px;
   font-family: "Lucida Handwriting", Cursive;
   line-height: -0.5;
-  class="small"
 }
