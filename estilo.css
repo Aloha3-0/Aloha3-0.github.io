@@ -1,11 +1,14 @@
 body {
   background-image: url("https://www.xmple.com/wallpaper/gradient-green-black-linear-3840x2160-c2-000000-32cd32-a-180-f-14.svg");
+  margin: 0px;
+  padding: 0px;
 }
 
 h1 {
   color: white;
   font-size: 150px;
   font-family: "Cooperplate", Fantasy;
+  margin: 5px;
   margin-bottom: -60px;
 }
 
