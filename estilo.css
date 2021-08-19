@@ -29,3 +29,9 @@ p {
    text-align: left;
    margin-left: 50px;
 }
+
+.block {
+    display: inline-block;
+    vertical-align:top;
+    text-align: center; 
+}
