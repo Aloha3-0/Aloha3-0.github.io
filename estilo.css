@@ -12,14 +12,14 @@ h1 {
 }
 
 p.small {
-  line-height: -0.5;
+  line-height: 0.0;
 }
 
 h2 {
   color: white;
   font-size: 20px;
   font-family: "Lucida Handwriting", Cursive;
-  line-height: -0.5;
+  line-height: 0.0;
 }
 
 p {
@@ -36,7 +36,7 @@ p {
     text-align: center; 
     color: white; 
     margin-right: 50px;
-    margin-left: 30px;
+    margin-left: 150px;
     margin-top: 50px;
     margin-bottom: 50px;
 }
