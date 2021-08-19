@@ -15,9 +15,16 @@ p.small {
   line-height: -0.5;
 }
 
-p {
+h2 {
   color: white;
   font-size: 30px;
   font-family: "Lucida Handwriting", Cursive;
   line-height: -0.5;
+}
+
+p {
+   color: white;
+   font-size: 30px;
+   font-family: arial;
+   text-align: left;
 }
