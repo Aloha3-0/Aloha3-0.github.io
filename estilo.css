@@ -19,6 +19,7 @@ h2 {
   color: white;
   font-size: 20px;
   font-family: "Lucida Handwriting", Cursive;
+  margin-top: 50px;
  
 }
 
@@ -28,6 +29,7 @@ p {
    font-family: arial;
    text-align: left;
    margin-left: 50px;
+ 
 }
 
 .block {
