@@ -35,7 +35,9 @@ p {
     vertical-align:top;
     text-align: center; 
     color: white; 
-    font-size: 30px;
+    font-size: 10px;
     margin-right: 50px;
     margin-left: 30px;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
