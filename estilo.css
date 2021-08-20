@@ -19,6 +19,13 @@ h2 {
  
 }
 
+h3 {
+   color: white
+   text-decoration: underline;
+   text-shadow: 2px 2px 5px green;
+   text-align: center;
+}
+
 p {
    color: white;
    font-size: 30px;
