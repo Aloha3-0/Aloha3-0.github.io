@@ -37,9 +37,5 @@ p {
     display: inline-block;
     vertical-align:top;
     text-align: center; 
-    color: white; 
-    margin-right: 20px;
-    margin-left: 170px;
-    margin-top: 50px;
-    margin-bottom: 50px;
+    color: white;
 }
