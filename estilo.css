@@ -52,6 +52,5 @@ p {
 IMG.displayed {
     display: block;
      margin-top: 0px;
-    margin-right: 50px;
-    margin-left: 50px;
+     text-align: center;
 }
