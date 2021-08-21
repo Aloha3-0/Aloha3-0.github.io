@@ -42,8 +42,7 @@ p {
     vertical-align:top;
     text-align: center; 
     color: white;
-    margin-right: 20px;
-    margin-left: 20px;
+    margin: auto;
     padding: 70px 0;
     text-align: center;
 }
