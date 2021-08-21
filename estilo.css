@@ -46,6 +46,18 @@ p {
     text-align: center;
 }
 
+.block1 {
+    display: inline-block;
+    vertical-align:top;
+    text-align: center; 
+    color: white;
+    margin-top: 10px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding: 70px 0;
+    text-align: center;
+}
+
 IMG.displayed {
     display: block;
     margin-top: 0px;
