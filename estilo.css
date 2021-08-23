@@ -89,14 +89,7 @@ h7 {
    text-transform: uppercase;
 }
 
-h8 {
-    color: white;
-    text-align: center;
-    font-family: arial;
-    font-size: 30px;
-}  
-  
-  
+    
 .myImage {
   text-align: center;
   height: 30px;
@@ -104,7 +97,3 @@ h8 {
   float: none;
 }
 
-.heading {
-  text-align: center;
-  float:right;
-}
