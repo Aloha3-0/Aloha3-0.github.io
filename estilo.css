@@ -89,6 +89,14 @@ h7 {
    text-transform: uppercase;
 }
 
+h8 {
+    color: white;
+    text-align: center;
+    font-family:"Copperplate", Fantasy;
+    font-size: 30px;
+}  
+  
+  
 .myImage {
   text-align: center;
   float: left;
