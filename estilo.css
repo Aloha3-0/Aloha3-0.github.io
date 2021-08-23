@@ -69,3 +69,11 @@ h5 {
    font-family: "Copperplate", Fantasy;
    font-size: 30px;
 }
+
+h6 {
+   color: white;
+   text-align: center;
+   font-family: "Copperplate", Fantasy;
+   font-size: 20px;
+   text-decoration: underline;
+}
