@@ -88,3 +88,13 @@ h7 {
    text-shadow: 2px 2px 5px green;
    text-transform: uppercase;
 }
+
+.myImage {
+  float: left;
+  height: 30px;
+  width: 30px;
+}
+
+.heading {
+  float:right;
+}
