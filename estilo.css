@@ -90,11 +90,13 @@ h7 {
 }
 
 .myImage {
+  text-align: center;
   float: left;
   height: 30px;
   width: 30px;
 }
 
 .heading {
+  text-align: center;
   float:right;
 }
